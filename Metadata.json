@@ -1,0 +1,20 @@
+{
+    "Author": "Ruud Borst",
+    "ContentSize": 89547,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-demo--provision-vm's-in-thirteen-data-centers-worldwide-in-10-minutes!/master/AzureDemo_ProvisionVMsGlobally.ps1",
+    "DownloadCount": 1558,
+    "Id": "Azure-Demo-Batch-Provision-b98c75db",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 457,
+    "RaterCount": 3,
+    "Rating": 4.3,
+    "ReleaseDate": "2015-5-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script helps you to automatically deploy an Azure VM, Azure Service and related Storage Account in each available Microsoft Azure Data center. Please let me know if you found a bug or if it needs improvements. Also feel free to use pieces of code and experiment for yourself.",
+    "Title": "Azure Demo : Provision VM's in thirteen data centers worldwide in 10 minutes!",
+    "UpdatedDate": "2016-3-10T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-demo--provision-vm's-in-thirteen-data-centers-worldwide-in-10-minutes!",
+    "UserTags": "Microsoft Azure, Powershell, Advanced Functions"
+}
